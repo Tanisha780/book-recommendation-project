@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../users.csv"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../gaurav/downloads/Ratings.csv"
+		}
+	],
+	"settings": {}
+}
