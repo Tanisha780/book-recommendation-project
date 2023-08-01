@@ -1,8 +1,7 @@
 import pickle
 import streamlit as st
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+
 st.header("Book Recommender System Using Machine Learning")
 model  = pickle.load(open('model.pkl','rb'))
 books_name = pickle.load(open('books.pkl','rb'))
